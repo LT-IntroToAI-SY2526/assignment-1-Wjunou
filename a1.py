@@ -20,7 +20,8 @@ Remember: The goal is to LEARN, not just get working code!
 
 """
 MY ORIGINAL AI PROMPT:
-[Paste the prompt you used to generate your problem set here]
+[I am currently in highschool programing calss. I have experince with Jave, Html, Css and Bootstrap.
+ Can you please creat 5-7 practice problems that cover the basics of pythonas well as explanations]
 
 Example: "I'm learning Python basics in a high school programming class. 
 I have some experience with Java. Can you create 5-7 practice problems that cover..."
